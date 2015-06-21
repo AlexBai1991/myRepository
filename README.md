@@ -78,11 +78,11 @@ Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi,
 viverra nec, fringilla in, laoreet vitae, risus.
 *   Donec sit amet nisl. Aliquam semper ipsum sit amet velit.
 Suspendisse id sem consectetuer libero luctus adipiscing.
-*   This is new para.在
-
-      console.log('Hello Markdown');
+*   This is new para.
+   
+        console.log('Hello Markdown');
 
 代码 here
 
->     consoloe.log("hello markdown");
->     alet("www");
+        consoloe.log("hello markdown");
+    alert("www");
