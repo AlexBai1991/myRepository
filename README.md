@@ -491,3 +491,7 @@ Markdown 支持以下这些符号前面加上反斜杠来帮助插入普通的�
     -   减号
     .   英文句点
     !   惊叹号
+
+
+------
+参考链接：[Markdown](http://www.appinn.com/markdown/#philosophy, '参考链接')
