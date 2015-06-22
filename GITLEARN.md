@@ -13,7 +13,7 @@
 执行：
 
     git config --global user.name "AlexBai1991"
-    git config --global user.email "baijinguo1991@163.com
+    git config --global user.email "baijinguo1991@163.com"
 
 ### 设置换行符参数
 
